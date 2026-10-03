@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://www.dpjlegal.com/</loc>
-    <priority>1.0</priority>
-  </url>
+  <url><loc>https://www.dpjlegal.com/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://www.dpjlegal.com/litigation/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://www.dpjlegal.com/alternative-dispute-resolution/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://www.dpjlegal.com/corporate/</loc><lastmod>2026-10-03</lastmod></url>
 </urlset>
